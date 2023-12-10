@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 II’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Development - related content <br>🤝 I’m looking for help with developing a project using front End Technologies & Frameworks<br> 🌱 I’m currently learning to use AI tools in Web development technologies<br>💬 Ask me about Tech Development tools & hacks<br>⚡ Fun fact - My fulltime role is in business consulting for TECH Giants <br><br> <br>
+🔭 II’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Development - related content <br>🤝 I’m looking for help with developing a project using Front End Technologies & Frameworks<br> 🌱 I’m currently learning to use AI tools in Web development technologies<br>💬 Ask me about Tech Development tools & hacks<br>⚡ Fun fact - My fulltime role is in business consulting for TECH Giants <br><br> <br>
 
 
 ## 🌐 Socials:
